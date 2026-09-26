@@ -1,11 +1,13 @@
 {
+  "id": "/jornada-fisica-medica-proposta2/",
   "name": "XII Jornada Acadêmica de Física Médica – UFCSPA | Proposta 2",
-  "short_name": "Jornada FM",
+  "short_name": "Jornada FM P2",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#fbf7ec",
   "theme_color": "#65000d",
-  "description": "Protótipo da XII Jornada Acadêmica de Física Médica da UFCSPA",
+  "description": "Protótipo da XII Jornada Acadêmica de Física Médica da UFCSPA – Proposta 2",
   "icons": [
     {
       "src": "./icon-192.png",
