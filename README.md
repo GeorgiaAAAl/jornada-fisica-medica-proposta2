@@ -1,9 +1,3 @@
-# XII Jornada Acadêmica de Física Médica – UFCSPA — Proposta 2
+# Proposta 2 — XII Jornada Acadêmica de Física Médica UFCSPA
 
-Protótipo funcional para avaliação da Comissão Organizadora.
-
-Inclui Bem-vindos, Programação/Favoritos, Palestrantes e perfis, Minicursos, Trabalhos/Pôsteres, Rodas de conversa, Local, Patrocinadores, Apoiadores, Fotos e Sobre.
-
-Os conteúdos são demonstrativos e devem ser substituídos pelos dados oficiais.
-
-Para publicar gratuitamente: GitHub Pages → Deploy from a branch → main → /(root).
+Protótipo funcional. Conteúdo preenchido a partir da planilha Cronograma_Jornada_FM_2026_v3; itens ainda não confirmados são identificados como pendentes/a confirmar.
