@@ -5,5 +5,19 @@
   "display": "standalone",
   "background_color": "#fbf7ec",
   "theme_color": "#65000d",
-  "description": "Protótipo da XII Jornada Acadêmica de Física Médica da UFCSPA"
+  "description": "Protótipo da XII Jornada Acadêmica de Física Médica da UFCSPA",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
